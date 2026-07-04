@@ -1,6 +1,6 @@
-# original project summary
+# README
 
-Source file: `original_project_summary.docx`
+Source: `README.docx`
 
 ## Extracted Text
 

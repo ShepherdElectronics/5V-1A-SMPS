@@ -1,6 +1,6 @@
-# matlab results
+# MATLAB Results
 
-Source file: `matlab_results.docx`
+Source: `MATLAB Results.docx`
 
 ## Extracted Text
 

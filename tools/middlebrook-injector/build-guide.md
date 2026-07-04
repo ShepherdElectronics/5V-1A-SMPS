@@ -1,6 +1,6 @@
-# build-guide
+# Build guide
 
-Source file: `build-guide.docx`
+Source: `Build guide.docx`
 
 ## Extracted Text
 

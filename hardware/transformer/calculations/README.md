@@ -1,29 +1,21 @@
-﻿# Transformer Calculations
+# Transformer Calculations
 
-This folder contains design and verification calculations for the custom RM10/I flyback transformer.
-
-PDF and CSV files are used as the primary GitHub-viewable artifacts. Raw XLSX/DOCX originals are preserved under rchive/.
-
-## Files
+GitHub-viewable transformer design calculations.
 
 | File | Description |
 |---|---|
-| $(bobbin_fit_estimation.pdf.Name) | GitHub-viewable calculation artifact. |
-| $(matlab_results.md.Name) | GitHub-viewable calculation artifact. |
-| $(matlab_script.md.Name) | GitHub-viewable calculation artifact. |
-| $(saturation.csv.Name) | GitHub-viewable calculation artifact. |
-| $(transformer_design_analysis.pdf.Name) | GitHub-viewable calculation artifact. |
+| [transformer_design_analysis.pdf](transformer_design_analysis.pdf) | Transformer design and characterization summary. |
+| [bobbin_fit_estimation.pdf](bobbin_fit_estimation.pdf) | Bobbin fit estimate. |
+| [saturation.csv](saturation.csv) | Saturation calculation CSV. |
+| [matlab_results.md](matlab_results.md) | Extracted MATLAB results notes. |
+| [matlab_script.md](matlab_script.md) | Extracted MATLAB script notes. |
 
 ## Key Results
 
 | Parameter | Value |
 |---|---:|
-| Output power target | 5 W |
-| Switching frequency | about 132 kHz |
-| Primary turns | 119 turns |
-| Measured primary magnetizing inductance | 2.476 mH |
+| Primary magnetizing inductance | 2.476 mH |
 | Secondary inductance | 26.64 uH |
 | Auxiliary inductance | 26.77 uH |
 | Conservative leakage inductance | about 53.10 uH |
-| Estimated primary peak current | about 0.206 A |
-| Total bobbin radial build | about 2.177 mm |
+| Coupling factor | about 0.989 to 0.991 |

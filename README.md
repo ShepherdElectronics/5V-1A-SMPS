@@ -1,8 +1,8 @@
-﻿# Offline Flyback SMPS - Custom Transformer
+# Offline Flyback SMPS - Custom Transformer
 
 Bench-validated offline flyback switch-mode power supply using a custom hand-wound RM10/I transformer and a Power Integrations TNY285 TinySwitch controller.
 
-This project documents the design, prototyping, measurement, and PCB transition of an isolated 120 VAC to 5 V flyback supply.
+This repository is organized for GitHub viewing: CSVs, Markdown, PDFs, and JPG images are first-class. Raw DOCX/XLSX/HEIC originals are preserved under `archive/`.
 
 ## Bench Validation Images
 
@@ -25,8 +25,8 @@ This project documents the design, prototyping, measurement, and PCB transition 
 - Verified about 4.94 V output under a 22 ohm load
 - Measured transformer magnetics, leakage, coupling, and drain stress
 - Captured drain waveform behavior and output waveform behavior
-- Created PCB schematic, BOM, assembly order, and validation artifacts
-- Preserved original Drive-style project archive under archive/
+- Preserved original Drive-style project archive under `archive/`
+- Added isolation transformer and Middlebrook injector as first-class tools
 
 ## Electrical Summary
 
@@ -50,17 +50,16 @@ This project documents the design, prototyping, measurement, and PCB transition 
 
 ## Repository Structure
 
-- hardware/ - schematic, BOM, PCB images, and transformer design files
-- validation/ - dead-bug photos, output captures, and drain waveform evidence
-- tools/ - Middlebrook injector and supporting scripts
-- docs/ - notes, indexes, and generated summaries
-- archive/ - preserved original root files and original full source tree
+- `hardware/` - schematic, BOM CSVs, PCB images, and transformer files
+- `validation/` - dead-bug photos, output captures, drain waveforms, and measurement CSVs
+- `tools/` - isolation transformer, Middlebrook injector, and supporting scripts
+- `docs/` - notes and generated indexes
+- `archive/` - preserved original source files and backup copies
+
+## Spreadsheet Format
+
+Public folders use CSV files as the spreadsheet format because CSVs are browser-viewable, searchable, diffable, and lightweight on GitHub. Raw XLSX originals are preserved only under `archive/`.
 
 ## Safety Notice
 
 This project involves offline mains voltage and isolated switch-mode power supply design. The files are provided for portfolio and educational documentation only. Mains-powered circuits can be lethal. Use proper isolation, fusing, grounding, probing technique, and supervision where appropriate.
-
-## Spreadsheet Format
-
-Public folders use CSV files as the primary spreadsheet format because CSVs are browser-viewable, diffable, searchable, and lightweight on GitHub. Raw XLSX originals are preserved under rchive/ for traceability.
-

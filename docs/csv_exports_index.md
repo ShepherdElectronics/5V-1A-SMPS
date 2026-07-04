@@ -1,8 +1,8 @@
-﻿# GitHub-Viewable CSV Files
+# GitHub-Viewable CSV Files
 
-These CSV files are the browser-viewable spreadsheet artifacts for the project.
+These CSV files are the browser-viewable spreadsheet and measurement artifacts for the project.
 
-Raw XLSX originals are preserved under archive/.
+Raw XLSX originals are preserved under `archive/` only.
 
 | CSV File |
 |---|
@@ -16,6 +16,16 @@ Raw XLSX originals are preserved under archive/.
 | [Appendix/Design/Transformer/Construction Notes and Test Photos/Transformer_Design_Plan.csv](Appendix/Design/Transformer/Construction Notes and Test Photos/Transformer_Design_Plan.csv) |
 | [Appendix/Design/Transformer/Transformer BOM__SNUBBERCLAMP.csv](Appendix/Design/Transformer/Transformer BOM__SNUBBERCLAMP.csv) |
 | [Appendix/Design/Transformer/Transformer BOM__TRANS.csv](Appendix/Design/Transformer/Transformer BOM__TRANS.csv) |
+| [archive/generated-backups/public_tree_before_final_rebuild_20260704_152124/hardware/bom/deadbug_bom__Flyback_BOM_(As-Built).csv](archive/generated-backups/public_tree_before_final_rebuild_20260704_152124/hardware/bom/deadbug_bom__Flyback_BOM_(As-Built).csv) |
+| [archive/generated-backups/public_tree_before_final_rebuild_20260704_152124/hardware/bom/deadbug_bom__TL431_Divider_Reference.csv](archive/generated-backups/public_tree_before_final_rebuild_20260704_152124/hardware/bom/deadbug_bom__TL431_Divider_Reference.csv) |
+| [archive/generated-backups/public_tree_before_final_rebuild_20260704_152124/hardware/bom/deadbug_drain_measurements.csv](archive/generated-backups/public_tree_before_final_rebuild_20260704_152124/hardware/bom/deadbug_drain_measurements.csv) |
+| [archive/generated-backups/public_tree_before_final_rebuild_20260704_152124/hardware/bom/pcb_assembly_order.csv](archive/generated-backups/public_tree_before_final_rebuild_20260704_152124/hardware/bom/pcb_assembly_order.csv) |
+| [archive/generated-backups/public_tree_before_final_rebuild_20260704_152124/hardware/bom/pcb_bom__Manufacturing.csv](archive/generated-backups/public_tree_before_final_rebuild_20260704_152124/hardware/bom/pcb_bom__Manufacturing.csv) |
+| [archive/generated-backups/public_tree_before_final_rebuild_20260704_152124/hardware/bom/pcb_bom__Project_Information.csv](archive/generated-backups/public_tree_before_final_rebuild_20260704_152124/hardware/bom/pcb_bom__Project_Information.csv) |
+| [archive/generated-backups/public_tree_before_final_rebuild_20260704_152124/hardware/transformer/bom/transformer_bom__SNUBBERCLAMP.csv](archive/generated-backups/public_tree_before_final_rebuild_20260704_152124/hardware/transformer/bom/transformer_bom__SNUBBERCLAMP.csv) |
+| [archive/generated-backups/public_tree_before_final_rebuild_20260704_152124/hardware/transformer/bom/transformer_bom__TRANS.csv](archive/generated-backups/public_tree_before_final_rebuild_20260704_152124/hardware/transformer/bom/transformer_bom__TRANS.csv) |
+| [archive/generated-backups/public_tree_before_final_rebuild_20260704_152124/hardware/transformer/calculations/saturation.csv](archive/generated-backups/public_tree_before_final_rebuild_20260704_152124/hardware/transformer/calculations/saturation.csv) |
+| [archive/generated-backups/public_tree_before_final_rebuild_20260704_152124/hardware/transformer/construction/transformer_design_plan.csv](archive/generated-backups/public_tree_before_final_rebuild_20260704_152124/hardware/transformer/construction/transformer_design_plan.csv) |
 | [archive/original-appendix/Design/Dead-bug/Dead-bug BoM_csv/Flyback_BOM_(As-Built).csv](archive/original-appendix/Design/Dead-bug/Dead-bug BoM_csv/Flyback_BOM_(As-Built).csv) |
 | [archive/original-appendix/Design/Dead-bug/Dead-bug BoM_csv/TL431_Divider_Reference.csv](archive/original-appendix/Design/Dead-bug/Dead-bug BoM_csv/TL431_Divider_Reference.csv) |
 | [archive/original-appendix/Design/Dead-bug/Dead-bug DRAIN_csv/Sheet1.csv](archive/original-appendix/Design/Dead-bug/Dead-bug DRAIN_csv/Sheet1.csv) |
@@ -38,7 +48,6 @@ Raw XLSX originals are preserved under archive/.
 | [archive/original-full/Appendix/Design/Transformer/Transformer BOM_csv/TRANS.csv](archive/original-full/Appendix/Design/Transformer/Transformer BOM_csv/TRANS.csv) |
 | [hardware/bom/deadbug_bom__Flyback_BOM_(As-Built).csv](hardware/bom/deadbug_bom__Flyback_BOM_(As-Built).csv) |
 | [hardware/bom/deadbug_bom__TL431_Divider_Reference.csv](hardware/bom/deadbug_bom__TL431_Divider_Reference.csv) |
-| [hardware/bom/deadbug_drain_measurements.csv](hardware/bom/deadbug_drain_measurements.csv) |
 | [hardware/bom/pcb_assembly_order.csv](hardware/bom/pcb_assembly_order.csv) |
 | [hardware/bom/pcb_bom__Manufacturing.csv](hardware/bom/pcb_bom__Manufacturing.csv) |
 | [hardware/bom/pcb_bom__Project_Information.csv](hardware/bom/pcb_bom__Project_Information.csv) |
@@ -46,3 +55,4 @@ Raw XLSX originals are preserved under archive/.
 | [hardware/transformer/bom/transformer_bom__TRANS.csv](hardware/transformer/bom/transformer_bom__TRANS.csv) |
 | [hardware/transformer/calculations/saturation.csv](hardware/transformer/calculations/saturation.csv) |
 | [hardware/transformer/construction/transformer_design_plan.csv](hardware/transformer/construction/transformer_design_plan.csv) |
+| [validation/drain-waveforms/deadbug_drain_measurements.csv](validation/drain-waveforms/deadbug_drain_measurements.csv) |

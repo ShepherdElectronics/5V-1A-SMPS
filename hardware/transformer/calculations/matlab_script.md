@@ -1,6 +1,6 @@
-# matlab script
+# MATLAB Script
 
-Source file: `matlab_script.docx`
+Source: `MATLAB Script.docx`
 
 ## Extracted Text
 
