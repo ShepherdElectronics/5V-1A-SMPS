@@ -1,4 +1,4 @@
-﻿# Offline Flyback SMPS - Custom Transformer
+# Offline Flyback SMPS - Custom Transformer
 
 Bench-validated offline flyback switch-mode power supply using a custom hand-wound RM10/I transformer and a Power Integrations TNY285 TinySwitch controller.
 
@@ -46,6 +46,7 @@ This project documents the design, prototyping, measurement, and PCB transition 
 
 - [CSV exports index](docs/csv_exports_index.md)
 - [Image index](docs/image_index.md)
+- [Full file index](docs/full_file_index.md)
 
 ## Repository Structure
 
@@ -53,7 +54,7 @@ This project documents the design, prototyping, measurement, and PCB transition 
 - validation/ - dead-bug photos, output captures, and drain waveform evidence
 - tools/ - Middlebrook injector and supporting scripts
 - docs/ - notes, indexes, and generated summaries
-- archive/ - preserved original root files and original Appendix tree
+- archive/ - preserved original root files and original full source tree
 
 ## Safety Notice
 

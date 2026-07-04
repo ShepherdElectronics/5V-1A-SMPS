@@ -1,4 +1,4 @@
-﻿# Validation Evidence
+# Validation Evidence
 
 | Folder | Description |
 |---|---|

@@ -1,4 +1,4 @@
-﻿# Middlebrook Loop-Injection Box
+# Middlebrook Loop-Injection Box
 
 This folder documents the reusable Middlebrook loop-injection box used for future SMPS feedback-loop measurement.
 

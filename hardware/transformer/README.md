@@ -1,4 +1,4 @@
-﻿# Custom Flyback Transformer
+# Custom Flyback Transformer
 
 This folder contains the design, construction, measurements, BOM, and hi-pot evidence for the custom RM10/I transformer used in the offline flyback SMPS.
 
@@ -6,7 +6,7 @@ This folder contains the design, construction, measurements, BOM, and hi-pot evi
 
 | Folder | Description |
 |---|---|
-| bom/ | Transformer BOM and CSV exports if generated. |
+| bom/ | Transformer BOM and CSV exports. |
 | calculations/ | Transformer design analysis, bobbin fit, MATLAB results, and saturation checks. |
 | construction/ | Construction notes, pinout, insulation photos, winding/gapping photos. |
 | measurements/ | Primary inductance, leakage inductance, and winding resistance measurement photos. |

@@ -1,4 +1,4 @@
-﻿# Windows
+# Windows
 Thumbs.db
 desktop.ini
 
@@ -13,7 +13,7 @@ __pycache__/
 .venv/
 .env
 
-# Archives / temporary exports
+# Archives / compressed temporary exports
 *.zip
 *.rar
 *.7z
