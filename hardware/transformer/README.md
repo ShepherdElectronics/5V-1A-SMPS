@@ -6,7 +6,7 @@ This folder contains the design, construction, measurements, BOM, and hi-pot evi
 
 | Folder | Description |
 |---|---|
-| bom/ | Transformer BOM and source spreadsheet. |
+| bom/ | Transformer BOM and CSV exports if generated. |
 | calculations/ | Transformer design analysis, bobbin fit, MATLAB results, and saturation checks. |
 | construction/ | Construction notes, pinout, insulation photos, winding/gapping photos. |
 | measurements/ | Primary inductance, leakage inductance, and winding resistance measurement photos. |
@@ -21,5 +21,3 @@ This folder contains the design, construction, measurements, BOM, and hi-pot evi
 | Auxiliary inductance | 26.77 uH |
 | Conservative leakage inductance | about 53.10 uH |
 | Coupling factor | about 0.989 to 0.991 |
-
-Raw Word and Excel files are preserved for traceability. PDFs, images, and videos are included where available for direct GitHub viewing.
