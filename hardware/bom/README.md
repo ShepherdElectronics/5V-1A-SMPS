@@ -1,10 +1,16 @@
-# BOM and Assembly Files
+﻿# BOM and Assembly Files
 
-Bill-of-materials and assembly-order spreadsheets for the PCB and dead-bug prototype.
+This folder contains browser-viewable CSV files for the PCB and dead-bug prototype BOM / measurement artifacts.
+
+Raw XLSX originals are preserved under rchive/ for traceability.
+
+## Files
 
 | File | Description |
 |---|---|
-| pcb_bom.xlsx / pcb_bom_csv/ | PCB bill of materials and CSV exports. |
-| pcb_assembly_order.xlsx / pcb_assembly_order_csv/ | PCB assembly order spreadsheet and CSV exports. |
-| deadbug_bom.xlsx / deadbug_bom_csv/ | Dead-bug prototype BOM and CSV exports. |
-| deadbug_drain_measurements.xlsx / deadbug_drain_measurements_csv/ | Drain waveform / measurement spreadsheet and CSV exports. |
+| $(deadbug_bom__Flyback_BOM_(As-Built).csv.Name) | GitHub-viewable CSV export. |
+| $(deadbug_bom__TL431_Divider_Reference.csv.Name) | GitHub-viewable CSV export. |
+| $(deadbug_drain_measurements.csv.Name) | GitHub-viewable CSV export. |
+| $(pcb_assembly_order.csv.Name) | GitHub-viewable CSV export. |
+| $(pcb_bom__Manufacturing.csv.Name) | GitHub-viewable CSV export. |
+| $(pcb_bom__Project_Information.csv.Name) | GitHub-viewable CSV export. |
