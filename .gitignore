@@ -1,0 +1,23 @@
+﻿# Windows
+Thumbs.db
+desktop.ini
+
+# Office temporary files
+~$*.docx
+~$*.xlsx
+*.tmp
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Archives / temporary exports
+*.zip
+*.rar
+*.7z
+
+# Logs / backups
+*.log
+*.bak
