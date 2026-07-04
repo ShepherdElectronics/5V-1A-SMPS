@@ -130,3 +130,16 @@ Bench validation is complete. The PCB has been assembled and is currently being 
 ## Safety Notice
 
 This project involves offline mains voltage and isolated switch-mode power supply design. The files are provided for portfolio and educational documentation only. Mains-powered circuits can be lethal. Use proper isolation, fusing, grounding, probing technique, and supervision where appropriate.
+
+## GitHub-Viewable Notes
+
+Raw Word and Excel files are included for traceability. GitHub may require downloading DOCX and XLSX files, so folder-level README.md summaries are provided for quick browser viewing.
+
+Important folder summaries:
+
+- hardware/transformer/README.md
+- hardware/transformer/calculations/README.md
+- hardware/bom/README.md
+- hardware/transformer/bom/README.md
+- tools/middlebrook-injector/README.md
+- validation/README.md
